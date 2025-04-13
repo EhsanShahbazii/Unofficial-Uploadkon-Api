@@ -4,7 +4,7 @@
 
 It is built for batch uploads: parallel workers, retry/backoff, random User-Agent rotation, colorful terminal progress, and automatic video-to-zip staging for video extensions that the host rejects directly.
 
-![Uploadkon Turbo terminal preview](docs/terminal-preview.svg)
+![Uploadkon Turbo terminal preview](docs/preview.png)
 
 ## Features
 
